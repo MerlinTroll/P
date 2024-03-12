@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #4d4d4d;
+}
+
+header {
+    background-color: #333;
+    color: #fff; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    display: flex;
+}
+
+header img {
+    max-width: 100px; 
+    max-height: 100px; 
+}
+
+nav {
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.comeco{
+    text-align: center;
+}
+
+.TextColor{
+    color: white;
+}
+
+.myfoto{
+    text-align: center;
+}
+
+.photo{
+    width: 150px;
+    margin-top: 15px;
+    border-radius: 100%;
+    border: solid  #444 4px;
+}
+
+.photo2{
+    width: 150px;
+    /* margin-top: 15px; */
+    border-radius: 100%;
+    border: solid  #444 4px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
