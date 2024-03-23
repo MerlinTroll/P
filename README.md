@@ -1,4 +1,4 @@
-# Título do projeto
+# PRIMEIRO SITE
 
 Meu CV online
 
@@ -7,9 +7,11 @@ Meu CV online
 Este projeto se trata do meu CV online que fiz em minhas aulas.
 Ainda estou aprendendo e fiz para testar meus conhecimentos.
 
-Abaixo veja agora um print do site para ver como ele se parece
+Abaixo veja agora um print do site para ver como ele se parece.
 
-<img scr="image/print_site.png">
+### Captura de Tela
+
+![Screenshot 1](image/print_site.png)
 
 ## ✒️ Autor
 
